@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-29_0352",
+    "name": "CENTRAL DOS PIX - SOLUÇÕES FINANCEIRAS",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -45,6 +45,15 @@
         "url": "https://fonts.googleapis.com/css?family=Pacifico:400"
       }
     ],
+    "favicon": "@PROJECT_PATH@/assets/images/mixnutri-pix.png",
+    "mbrsiteDomain": "wkxdvqksej",
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 14,
     "versionPublish": "5.6.5"
   },
